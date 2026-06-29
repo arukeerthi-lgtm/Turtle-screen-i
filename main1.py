@@ -1,6 +1,6 @@
 #PART 1- IMPORT AND SCREEN SETUP
 import turtle
-screen = turtle.screen()
+screen = turtle.Screen()
 screen.bgcolor("black")
 screen.title("Neon Mandala")
 #PART 2- CREATE THE TURTLE PEN
